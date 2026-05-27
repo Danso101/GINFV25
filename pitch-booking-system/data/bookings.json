@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "pitchId": 2,
+    "date": "2026-05-15",
+    "startTime": "23:28",
+    "hours": 4,
+    "totalAmount": 120
+  }
+]

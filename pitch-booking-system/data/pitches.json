@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "Grand Stadium Turf", "type": "Football", "pricePerHour": 50 },
+  { "id": 2, "name": "Wimbledon Clay Court", "type": "Tennis", "pricePerHour": 30 }
+]
